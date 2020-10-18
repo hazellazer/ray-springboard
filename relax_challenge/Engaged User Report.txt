@@ -1,0 +1,16 @@
+From the 12,000 users of Relaxed app, 1166 users have made 3 logins within a 7 day period, classifying them as engaged users.
+
+My analysis of these 1166 users has highlighted several factors that predict higher user engagement.
+
+1) Invitations
+Being invited by another user increases odds of becoming an engaged use by about 4%.
+Being invited by another engaged user doubles the odds of being engaged. Of engaged users, 12% were inviteded by engaged users compared to 6% of unengaged users invited by engaged users. 
+11.93% of users who joined through guest invites. 
+
+2) Method of Signup
+The two forms of signup with the highest rate of active users are SIGNUP_GOOGLE_AUTH users (12.42%) and guest invite users mentioned above.
+Only 5.73% of personal project users are engaged. 
+
+
+3) Marketing
+There is a small but statistically significant increase among engaged users in opting in to the mailing list, but no statistically significant difference among user engagement for those enabled for marketing drip. 
